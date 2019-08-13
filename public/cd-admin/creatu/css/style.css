@@ -1,0 +1,26 @@
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	margin: 0; 
+}
+
+
+.bootstrap-timepicker-widget{
+	left: 38%!important;
+}
+
+.adminlte-form-image{
+	height: 50px;
+	overflow: hidden;
+}
+.adminlte-form-image img{
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+}
+
+hr{
+	border-top: 3px solid #eee;
+}
